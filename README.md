@@ -1,5 +1,8 @@
 # PyTB
-A VERY basic Python based Twitter Scraper and Post-notifier Discord Bot
+A VERY basic Python based Twitter Scraper and Tweet-notifier Discord Bot
+
+## Requirements
+Python: 3.11.2 or higher
 
 
 ## What is this?
